@@ -1,5 +1,5 @@
 # feedbacks-application
-📋 Advantages of app: 
+📋 program items: 
 
 * Pleasant vintage interface style
 * Stores feedback in a structured format 
