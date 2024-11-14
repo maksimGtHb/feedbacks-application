@@ -1,6 +1,8 @@
 # feedbacks-application
 📋 Advantages of app: 
-* Runs right from the terminal
+
 * Pleasant vintage interface style
 * Stores feedback in a structured format 
-* Easy implementation for already working platform 
+* Easy implementation for already working platform
+
+***Sorry for the misuse of classes, a beginner project.
