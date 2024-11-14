@@ -1,5 +1,5 @@
 # feedbacks-application
-📋 program items: 
+📋 Program items: 
 
 * Pleasant vintage interface style
 * Stores feedback in a structured format 
